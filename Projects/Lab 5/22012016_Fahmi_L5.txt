@@ -70,10 +70,10 @@ int main() {
     cout << "Stack" << endl;
     Stack stack(4);
 
-    stack.push("Ali");
-    stack.push("Ahmed");
-    stack.push("Alee");
-    stack.push("Uya");
+    stack.push("Siti");
+    stack.push("Rai");
+    stack.push("Nana");
+    stack.push("Bibi");
 ;
     stack.peek();
 
