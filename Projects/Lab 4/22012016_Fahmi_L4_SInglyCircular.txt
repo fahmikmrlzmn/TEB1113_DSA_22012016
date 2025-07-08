@@ -56,10 +56,10 @@ int main() {
     cout <<  "Circular Linked List" << endl;
     LinkedList list;
 
-    list.add_element("Ali");
-    list.add_element("Ahmed");
-    list.add_element("Alee");
-    list.add_element("Hamza");
+    list.add_element("Siti");
+    list.add_element("Rai");
+    list.add_element("Hana");
+    list.add_element("Bibi");
 
     cout << "List: ";
     list.display_list();
