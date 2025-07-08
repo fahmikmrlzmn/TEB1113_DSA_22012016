@@ -75,10 +75,10 @@ int main() {
     cout << "Doubly Circular Linked List" << endl;
     DoublyCircularLinkedList list;
 
-    list.add_element("Ali");
-    list.add_element("Ahmed");
-    list.add_element("Alee");
-    list.add_element("Hamza");
+    list.add_element("Siti");
+    list.add_element("Rai");
+    list.add_element("Nana");
+    list.add_element("Bibi");
 
     cout << "Forward: ";
     list.display_forward();
